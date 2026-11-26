@@ -1,0 +1,13 @@
+{
+  "name": "pxt-studio-connect-usb",
+  "version": "0.0.1",
+  "description": "Studio Connect for USB serial",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "public": true
+}
